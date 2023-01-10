@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: bdf962eaa5c57c64f95e182e07bc0fed
+  - enabled: 1
+    path: Assets/Scenes/Gimnasio.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Dificil.unity
+    guid: a018c1a555f92674c935ad9caaf93cd1
+  m_configObjects: {}
